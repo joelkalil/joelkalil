@@ -20,7 +20,7 @@ I'm a Brazilian developer currently living in Lille, France.
 <img align="left" alt="C" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" style="padding-right:10px;" />
 
 <!-- Frameworks -->
-<img align="left" alt="MySQL" width="30px" src="./img/flaskv2.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="30px" src="https://github.com/joelkalil/joelkalil/blob/main/img/flask2.png" style="padding-right:10px;" />
 
 <!-- Database -->
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
