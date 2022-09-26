@@ -10,7 +10,7 @@ I'm a Brazilian developer currently living in Lille, France.
 
 ### You can contact me there :
 
-[Linkedin][https://www.linkedin.com/in/joelkalil/]
+[Linkedin](https://www.linkedin.com/in/joelkalil/)
 
 ### Languages and Tools :
 <!-- Languages -->
