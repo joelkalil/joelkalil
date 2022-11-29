@@ -39,4 +39,5 @@ I'm a Brazilian developer currently living in Lille, France.
 ---
 
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelkalil&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelkalil&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
