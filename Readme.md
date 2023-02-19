@@ -1,11 +1,11 @@
 # Hi, I'm Joel :>
 
-I'm a Brazilian developer currently living in Lille, France. 
+I'm a 22 years old Brazilian currently graduating in electrical engineering at Universidade Federal do Ceará with a double degree in general engineer at École Centrale de Lille. And this is my Git, here I'll put some projects in web development, as well machine learning and robotics.
 
 ## About me :
 - 🗺️ I'm willing to travel to anywhere in globe.
-- 🗣️ I speak three languages!
-- 🎮 I love RPG and open world games.
+- 🗣️ I speak three languages! (Portuguese, French and English)
+- 🎮 I love RPG and open world games, but my true love now is <3 Valorant <3.
 - 📺 I also love anime and manga.
 
 ### You can contact me there :
