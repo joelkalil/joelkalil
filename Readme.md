@@ -12,7 +12,7 @@ I'm a 22 years old Brazilian currently graduating in electrical engineering at U
 
 [Linkedin](https://www.linkedin.com/in/joelkalil/)
 
-### Languages and Tools :
+### Languages, Frameworks and Tools :
 <!-- Languages -->
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -21,7 +21,9 @@ I'm a 22 years old Brazilian currently graduating in electrical engineering at U
 <img align="left" alt="C" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" style="padding-right:10px;" />
 
 <!-- Frameworks -->
-<img align="left" alt="MySQL" width="30px" src="https://github.com/joelkalil/joelkalil/blob/main/img/flask2.png" style="padding-right:10px;" />
+<img align="left" alt="Flask" width="30px" src="https://github.com/joelkalil/joelkalil/blob/main/img/flask2.png" style="padding-right:10px;" />
+<img align="left" alt="Django" width="30px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" style="padding-right:10px;" />
+<img align="left" alt="VueJs" width="30px" src="https://v2.vuejs.org/images/logo.svg" style="padding-right:10px;" />
 
 <!-- Database -->
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
