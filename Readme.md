@@ -1,6 +1,6 @@
 # Hi, I'm Joel :>
 
-I'm a 22 years old Brazilian currently graduating in electrical engineering at Universidade Federal do Ceará with a double degree in general engineer at École Centrale de Lille. And this is my Git, here I'll put some projects in web development, as well machine learning and robotics.
+I'm a 23 years old Brazilian currently graduating in electrical engineering at Universidade Federal do Ceará with a double degree in general engineer at École Centrale de Lille. And this is my Git, here I'll put some projects in web development, as well machine learning and robotics.
 
 ## About me :
 - 🗺️ I'm willing to travel to anywhere in globe.
