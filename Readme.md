@@ -2,7 +2,7 @@
 
 **Solar Project Engineer** who writes code to make engineering work faster.
 
-I'm Brazilian, with a degree in Electrical Engineering from Universidade Federal do Ceará and a Double Degree in Computer Engineering from École Centrale de Lille. Today I work on solar energy projects, and I use software to automate the heavy parts: solar simulation automations, AI-powered review processes, dashboards, APIs, data pipelines on GCP, and custom data structures.
+I'm Brazilian, with a degree in Electrical Engineering from Universidade Federal do Ceará and a Double Degree in Computer Engineering from École Centrale de Lille, and I'm currently pursuing a postgraduate degree in Software Engineering at USP/ESALQ. Today I work on solar energy projects, and I use software to automate the heavy parts: solar simulation automations, AI-powered review processes, dashboards, APIs, data pipelines on GCP, and custom data structures.
 
 ## About me :
 - ☀️ Solar energy by day, automation and data by habit.
@@ -26,6 +26,11 @@ I'm Brazilian, with a degree in Electrical Engineering from Universidade Federal
   <img alt="Joel's contribution graph" src="https://raw.githubusercontent.com/joelkalil/joelkalil/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=joelkalil&theme=github-dark-blue&hide_border=true" />
+  <img alt="Joel's GitHub streak" src="https://streak-stats.demolab.com?user=joelkalil&hide_border=true" />
+</picture>
+
 **Work @ Casa dos Ventos** ([@joelpontesCVER](https://github.com/joelpontesCVER))
 
 <picture>
@@ -35,8 +40,8 @@ I'm Brazilian, with a degree in Electrical Engineering from Universidade Federal
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=joelkalil&theme=github-dark-blue&hide_border=true" />
-  <img alt="Joel's GitHub streak" src="https://streak-stats.demolab.com?user=joelkalil&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=joelpontesCVER&theme=github-dark-blue&hide_border=true" />
+  <img alt="Joel's work GitHub streak" src="https://streak-stats.demolab.com?user=joelpontesCVER&hide_border=true" />
 </picture>
 
 ---
