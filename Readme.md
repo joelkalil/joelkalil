@@ -8,7 +8,7 @@ I'm Brazilian, with a degree in Electrical Engineering from Universidade Federal
 - ☀️ Solar energy by day, automation and data by habit.
 - 🗺️ I'm willing to travel anywhere in the globe.
 - 🗣️ I speak three languages! (Portuguese, French and English)
-- 🎮 I love RPG and open world games, but my true love now is ❤️ Valorant ❤️.
+- 🎮 Steam gamer at heart: Soulslikes and Soulsborne are my ❤️ true love ❤️, followed by action RPGs and a good action game.
 - 📺 I also love anime and manga.
 
 ### You can contact me here :
