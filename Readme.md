@@ -2,7 +2,7 @@
 
 **Solar Project Engineer** who writes code to make engineering work faster.
 
-I'm Brazilian, with a degree in Electrical Engineering from Universidade Federal do Ceará and a Double Degree in Computer Engineering from École Centrale de Lille, and I'm currently pursuing a postgraduate degree in Software Engineering at USP/ESALQ. Today I work on solar energy projects, and I use software to automate the heavy parts: solar simulation automations, AI-powered review processes, dashboards, APIs, data pipelines on GCP, and custom data structures.
+I'm Brazilian, with a degree in Electrical Engineering from Universidade Federal do Ceará and a Double Degree in Computer Engineering from École Centrale de Lille, and I'm currently pursuing an MBA in Software Engineering at USP/ESALQ. Today I work on solar energy projects, and I use software to automate the heavy parts: solar simulation automations, AI-powered review processes, dashboards, APIs, data pipelines on GCP, and custom data structures.
 
 ## About me :
 - ☀️ Solar energy by day, automation and data by habit.
